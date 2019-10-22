@@ -2,11 +2,9 @@
 
 Important!!!
 
-You need to download the whole folder to run the bomberman.exe. All the files are necessary, and the file path cannot be changed.
+You need to download the whole folder to run the bomberman.exe. All the files are necessary, and the file path cannot be changed
 
-The package "jre1.8.0_91" is the Java Runtime Environment since the program is wrote in Java
-
-It is quit big to download (156MB), but it is necessary for running the program
+The package "jre1.8.0_91" is the Java Runtime Environment since the program is wrote in Java. It is quit big to download (156MB), but it is necessary for running the program
 
 Or you can simply download the "game demo video.mp4" to see how the game is played
 
